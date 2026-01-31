@@ -1,7 +1,7 @@
 # Simulink generated files
-*.slxc
+# *.slxc
 *.slxcdata
-*.slxautosave
+# *.slxautosave
 *.sldd
 *.mltbx
 
@@ -13,7 +13,7 @@
 # Archivos de simulación
 *.ps
 *.eps
-*.fig        # si son figuras grandes o generadas automáticamente
+# *.fig        # si son figuras grandes o generadas automáticamente
 *.avi        # videos de simulación
 
 # Archivos binarios grandes (general)
