@@ -1,0 +1,27 @@
+# Simulink generated files
+*.slxc
+*.slxcdata
+*.slxautosave
+*.sldd
+*.mltbx
+
+# Log y datos temporales
+*.log
+*.mdat
+*.mat        # si son datos grandes
+
+# Archivos de simulación
+*.ps
+*.eps
+*.fig        # si son figuras grandes o generadas automáticamente
+*.avi        # videos de simulación
+
+# Archivos binarios grandes (general)
+*.exe
+*.dll
+*.so
+*.bin
+
+# Builds de proyectos
+build/
+dist/
